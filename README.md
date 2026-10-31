@@ -4,9 +4,9 @@
 
 **Your AI-Powered Career & Interview Preparation Companion**
 
-[![Latest Release](https://img.shields.io/github/v/release/Padauk-Tech/Padauk-Career-Desktop?include_prereleases&label=Latest%20Release&style=for-the-badge)](https://github.com/Padauk-Tech/Padauk-Career-Desktop/releases)
-[![Downloads](https://img.shields.io/github/downloads/Padauk-Tech/Padauk-Career-Desktop/total?style=for-the-badge&label=Downloads)](https://github.com/Padauk-Tech/Padauk-Career-Desktop/releases)
-[![Platform](https://img.shields.io/badge/Platform-macOS%20%7C%20Windows-blue?style=for-the-badge)](https://github.com/Padauk-Tech/Padauk-Career-Desktop/releases)
+[![Latest Release](https://img.shields.io/github/v/release/Padauk-Tech/Padauk-Career-Desktop?display_name=tag&label=Latest%20Release&style=for-the-badge)](https://github.com/Padauk-Tech/Padauk-Career-Desktop/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/Padauk-Tech/Padauk-Career-Desktop/total?style=for-the-badge&label=Downloads&color=blue)](https://github.com/Padauk-Tech/Padauk-Career-Desktop/releases)
+[![Platform](https://img.shields.io/badge/Platform-macOS%20%7C%20Windows-blue?style=for-the-badge)](https://github.com/Padauk-Tech/Padauk-Career-Desktop/releases/latest)
 
 [**Download Latest Release →**](https://github.com/Padauk-Tech/Padauk-Career-Desktop/releases/latest)
 
